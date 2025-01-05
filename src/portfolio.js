@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/majuLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2019 - June 2023",
-      CGPA: "3.47",
+      cgpa: "CGPA: 3.47",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
