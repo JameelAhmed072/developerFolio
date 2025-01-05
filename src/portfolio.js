@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/majuLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2019 - June 2023",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      CGPA: 3.47,
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -153,15 +153,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "70%" //Insert relative proficiency in percentage
+      Stack: "Backend", //Insert stack or technology you have experience in
+      progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "90%"
+      Stack: "Spring Boot",
+      progressPercentage: "80%"
     },
     {
-      Stack: "Programming",
+      Stack: "Frontend",
       progressPercentage: "60%"
     }
   ],
