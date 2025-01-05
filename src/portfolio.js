@@ -212,8 +212,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Compliance central",
-  subtitle: "Being part of team to develop web application for Compliance teams",
+  title: "Projects",
+  subtitle: "Being part of team to develop web application",
   projects: [
     {
       image: require("./assets/images/qordataLogo.png"),
